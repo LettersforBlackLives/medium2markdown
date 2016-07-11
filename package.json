@@ -1,0 +1,16 @@
+{
+  "name": "medium2markdown",
+  "version": "1.0.0",
+  "description": "A quick and dirty hack to turn a LFBL medium post into markdown",
+  "bin": "index.js",
+  "author": "Jed Schmidt <where@jed.is>",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/LettersforBlackLives/medium2markdown.git"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.3.0"
+  }
+}
